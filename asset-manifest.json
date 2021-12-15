@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gesture-recognition/static/css/main.a617e044.chunk.css",
+    "main.js": "/gesture-recognition/static/js/main.0dbb4fe6.chunk.js",
+    "main.js.map": "/gesture-recognition/static/js/main.0dbb4fe6.chunk.js.map",
+    "runtime-main.js": "/gesture-recognition/static/js/runtime-main.2beb84d7.js",
+    "runtime-main.js.map": "/gesture-recognition/static/js/runtime-main.2beb84d7.js.map",
+    "static/js/2.9dbddaee.chunk.js": "/gesture-recognition/static/js/2.9dbddaee.chunk.js",
+    "static/js/2.9dbddaee.chunk.js.map": "/gesture-recognition/static/js/2.9dbddaee.chunk.js.map",
+    "static/js/3.028a16d8.chunk.js": "/gesture-recognition/static/js/3.028a16d8.chunk.js",
+    "static/js/3.028a16d8.chunk.js.map": "/gesture-recognition/static/js/3.028a16d8.chunk.js.map",
+    "index.html": "/gesture-recognition/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/gesture-recognition/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9dbddaee.chunk.js.LICENSE.txt": "/gesture-recognition/static/js/2.9dbddaee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gesture-recognition/static/media/logo.6ce24c58.svg",
+    "static/media/thumbs_up.e3bf974d.png": "/gesture-recognition/static/media/thumbs_up.e3bf974d.png",
+    "static/media/victory.8710fbb2.png": "/gesture-recognition/static/media/victory.8710fbb2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2beb84d7.js",
+    "static/js/2.9dbddaee.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0dbb4fe6.chunk.js"
+  ]
+}
